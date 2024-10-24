@@ -61,14 +61,11 @@ button:hover {
   color: red;
   font-size: 0.875rem;
   display: none;
-  /* Messages d'erreur cachés par défaut */
 }
 input.invalid,
 select.invalid {
   border-color: red;
-  /* Bordure rouge pour les champs invalides */
 }
 .show {
   display: block;
-  /* Classe pour afficher les messages d'erreur */
 }
